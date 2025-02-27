@@ -1,0 +1,3 @@
+/Users/ozzybent/CLionProjects/finalProject/cmake-build-debug/CMakeFiles/finalProject.dir
+/Users/ozzybent/CLionProjects/finalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ozzybent/CLionProjects/finalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
